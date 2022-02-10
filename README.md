@@ -1,9 +1,7 @@
  
  ## Deploys Using Netilify
- <a href="https://mychat-app-2-0.netlify.app" target="_blank">myChat 2.0</a>
+<a href="https://mychat-app-2-0.netlify.app" target="_blank">myChat 2.0</a>
  
- https://mychat-app-2-0.netlify.app/
-
 ## Introduction
 
 Ceate a full Realtime Chat Application with Social Auth and dedicated chat APIs/sockets.
