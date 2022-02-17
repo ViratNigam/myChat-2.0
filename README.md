@@ -1,6 +1,6 @@
  
  ## Deploys Using Netilify
-<a href="https://mychat-app-2-0.netlify.app" target="_blank">myChat 2.0</a>
+https://mychat-app-2-0.netlify.app
  
 ## Introduction
 
